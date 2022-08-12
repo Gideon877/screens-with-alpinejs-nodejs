@@ -1,0 +1,24 @@
+body {
+	background-color: azure;
+	flex: 0.1em;
+}
+
+
+.header {
+	background-color: rgb(199, 235, 235);
+	border: 1.5px solid teal;
+	border-radius: 0.1em;
+}
+
+.login {
+	background-color: antiquewhite;
+}
+.signup {
+	background-color: aquamarine;
+}
+.home {
+	background-color: darkseagreen;
+}
+.products {
+	background-color: burlywood;
+}
